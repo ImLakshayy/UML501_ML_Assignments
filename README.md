@@ -2,7 +2,7 @@
 
 # 📘 Assignment Submissions — Course Repository
 
-This repository contains all my assignment submissions for the coursework under **Dr. Manisha Malik** with help of her constant guidance and support.<br><br>
+This repository contains all my assignment submissions for the coursework under **Dr. Manisha Malik**. It is only possible with help of her constant guidance and support.<br><br>
 Each assignment includes well-structured code, outputs and a short summary describing the skills and concepts learned.
 
 ---
